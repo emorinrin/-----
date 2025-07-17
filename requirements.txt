@@ -2,3 +2,4 @@ streamlit
 google-generativeai
 pypdf2
 langchain
+python-docx
